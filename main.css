@@ -1,0 +1,40 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
+.ul .about:hover .drop-about{
+    display: block;
+}
+.drop-about:hover{
+    display: block;
+}
+.ul .activities:hover .drop-activities{
+    display: block;
+}
+.drop-activities:hover{
+    display: block;
+}
+.ul .services:hover .drop-services{
+    display: block;
+}
+.drop-services:hover{
+    display: block;
+}
+.ul .resources:hover .drop-resources{
+    display: block;
+}
+.drop-resources:hover{
+    display: block;
+}
+.ul .program:hover .drop-program{
+    display: block;
+}
+.drop-program:hover{
+    display: block;
+}
+.ul .engage:hover .drop-engage{
+    display: block;
+}
+.drop-engage:hover{
+    display: block;
+}
